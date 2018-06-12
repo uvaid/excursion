@@ -1,0 +1,38 @@
+body{background-color: black}
+h1  {font-family: Verdana;
+font-weight: Normal;
+font-size: 50px;
+color: white;
+text-align: center;
+}
+h2{font-family: Verdana;
+font-weight: 300;
+font-size: 42px;
+color: white;
+text-align: center;}
+
+h4 {color: aquamarine ;
+font-size: 16px;
+text-align: center;
+text-decoration: underline; color: aquamarine}
+}
+
+
+
+h3 {font-family: Verdana;
+font-weight: Normal;
+font-size: 21px;
+color: gray;
+text-align: center;}
+
+h5 { text-align: right;
+color: gray;
+}
+
+.image{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+video {display: block;
+    margin-left: auto;
+    margin-right: auto;}
